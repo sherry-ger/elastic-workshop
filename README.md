@@ -50,4 +50,5 @@ Elasticsearch is an excellent geo data store with many advance geo search capabi
 Before I dive into Elasticsearch APIs, I want to share the [Elasticsearch clients documentation](https://www.elastic.co/guide/en/elasticsearch/client/index.html). Also, in specific, [Elasticsearch Python client or Elasticsearch-py](https://github.com/elastic/elasticsearch-py).
 
 Here is [the script](DevTools) for the next set of exercises. We will be using [Kibana Dev Tools](https://www.elastic.co/guide/en/kibana/current/devtools-kibana.html).
+
 <img src="images/DevTool.png"  width="100" height="370">
