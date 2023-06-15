@@ -15,7 +15,8 @@
 #### Import a CSV into Elastic ####
 1. Once you have logged in, type file upload in the searchbox and select Machile Learning/File Upload
 <img src="images/image2.png"  width="400" height="150">
-2. Download the file [2019-michelin-restaurants.csv](Data/2019-michelin-restaurants.csv)
+2. Download the file 
+[2019-michelin-restaurants.csv](Data/2019-michelin-restaurants.csv)
 3. Drage and drop the file to the Data Visualizer
 4. Elasticsearch will provide file stats and field distributions, much like Panda DataFrame. 
 5. Click on import to continue
@@ -28,6 +29,7 @@ One thing to note here is `lat,lon=>location (geo_point)`. The data import recog
  <img src="images/image5.png"  width="400" height="170">
 
 #### Exploring data in discover #### 
+
 1. From the previous exercise, you are redirected to data discover. From here you can explore field stats, filter data, and save query results.
 <img src="images/image6.png"  width="500" height="270">
 2. You can also start charting directly by mouse over a field and click on visualize on the popup screen. Here I moused over region and click on Visualize
