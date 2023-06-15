@@ -18,7 +18,6 @@
 2. Download the file 
 
 [2019-michelin-restaurants.csv](Data/2019-michelin-restaurants.csv)
-
 3. Drage and drop the file to the Data Visualizer
 4. Elasticsearch will provide file stats and field distributions, much like Panda DataFrame. 
 5. Click on import to continue
