@@ -15,7 +15,7 @@
 #### Import a CSV into Elastic ####
 1. Once you have logged in, type file upload in the searchbox and select Machile Learning/File Upload
 <img src="images/image2.png"  width="400" height="150">
-2. Download the file [2019-michelin-restaurants.csv](https://github.com/sherry-ger/elastic-workshop/blob/main/Data/2019-michelin-restaurants.csv)
+2. Download the file [2019-michelin-restaurants.csv](Data/2019-michelin-restaurants.csv)
 3. Drage and drop the file to the Data Visualizer
 4. Elasticsearch will provide file stats and field distributions, much like Panda DataFrame. 
 5. Click on import to continue
