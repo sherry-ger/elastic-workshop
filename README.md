@@ -17,6 +17,7 @@
 
 1. Once you have logged in, type file upload in the searchbox and select Machile Learning/File Upload
 <img src="images/image2.png"  width="400" height="150">
+
 2. Download the file
 
 [2019-michelin-restaurants.csv](Data/2019-michelin-restaurants.csv)
