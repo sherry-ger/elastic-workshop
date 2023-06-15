@@ -4,6 +4,7 @@
 #### Import CSV in to Elasticsearch ####
 
 #### Create an Elastic work environment ####
+
 1. Go to https://cloud.elastic.co/ to sign up for a trial account
 2. Enter an email and password
 3. Create your first deployment
@@ -13,12 +14,11 @@
 5. Click on continue to proceed to the newly created cluster when it becomes available.
 
 #### Import a CSV into Elastic ####
+
 1. Once you have logged in, type file upload in the searchbox and select Machile Learning/File Upload
 <img src="images/image2.png"  width="400" height="150">
 2. Download the file 
-
 [2019-michelin-restaurants.csv](Data/2019-michelin-restaurants.csv)
-
 3. Drage and drop the file to the Data Visualizer
 4. Elasticsearch will provide file stats and field distributions, much like Panda DataFrame. 
 5. Click on import to continue
