@@ -67,7 +67,7 @@ Here we have the top 10 regions broken down by the numbers of stars awarded.
 8. Drag and drop the `location` field into the chart. You will be redirected to Elastic Map. 
 <img src="images/image12.png"  width="500" height="270">
 
-Elasticsearch is an excellent geo data store with many advance geo search capabilities. Also, there are many more functionalities like chart types, adding layers, and adding calculated values to charts. Please refer to [Kibana Lens](https://www.elastic.co/guide/en/kibana/current/lens.html) for details.
+Elasticsearch is an excellent geo data store with many advance geo search capabilities. Also, there are many more functionalities like chart types, adding layers, and adding calculated values to charts that we did not cover today. Please refer to [Kibana Lens](https://www.elastic.co/guide/en/kibana/current/lens.html) for details.
 
 #### Elasticsearch Via API ####
 
