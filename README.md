@@ -48,16 +48,18 @@ The data import recognizes the ```lat``` and ```lon``` fields are a candidate fo
 
 <img src="images/image7.png"  width="500" height="270">
 
-3. It should redirect you to a bar chart. 
+3. It should redirect you to a bar chart. Here are the top 5 regions represented in our data.
 <img src="images/image8.png"  width="500" height="270">
 
 4. Click on `Top 5 values of region`
 
-5. Change `Number of values` to 10 and click on close.
+5. Change `Number of values` to 10 and click on close. 
 <img src="images/image9.png"  width="500" height="270">
 
-6. Drap and drop the field star to Add or drag-and-drop a field under breakdown.
+6. Drap and drop the field `star` to `Add or drag-and-drop a field` under `breakdown`. 
 <img src="images/image10.png"  width="500" height="270">
+
+Here we have the top 10 regions broken down by the numbers of stars awarded.
 
 7. The last thing we will do here is click on Bar Chart Stacked and selected Region Map.
 <img src="images/image11.png"  width="500" height="270">
@@ -70,8 +72,8 @@ Elasticsearch is an excellent geo data store with many advance geo search capabi
 #### Elasticsearch Via API ####
 
 Before I dive into Elasticsearch APIs, I want to share the [Elasticsearch clients documentation](https://www.elastic.co/guide/en/elasticsearch/client/index.html). Also, in specific, 
-[Elasticsearch Python client or Elasticsearch-py](https://github.com/elastic/elasticsearch-py) 
+[Elasticsearch Python client or Elasticsearch-py](https://github.com/elastic/elasticsearch-py) as it is a major code language for AI/ML. It also makes leveraging Elasticsearch vector search/similarity search capability easy. 
 
-Here is [the script](DevTools) for the next set of exercises. We will be using [Kibana Dev Tools](https://www.elastic.co/guide/en/kibana/current/devtools-kibana.html).
+Here is [the script](DevTools) for our next set of exercises. We will be using [Kibana Dev Tools](https://www.elastic.co/guide/en/kibana/current/devtools-kibana.html).
 
 <img src="images/DevTool.png"  width="100" height="370">
