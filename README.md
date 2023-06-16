@@ -22,13 +22,19 @@
 
 [2019-michelin-restaurants.csv](Data/2019-michelin-restaurants.csv)
 
-3. Drage and drop the file to the Data Visualizer
+3. Drage and drop the file into the Data Visualizer
 4. Elasticsearch will provide file stats and field distributions, much like Panda DataFrame. 
 5. Click on import to continue
 <img src="images/image3.png"  width="400" height="230">
+
 6. Click on the Advance tab
 <img src="images/image4.png"  width="400" height="230">
-One thing to note here is `lat,lon=>location (geo_point)`. The data import recognizes the `lat` and `lon` fields are a candidate for a `geo_point` data type.
+One thing to note here is 
+
+```lat,lon=>location (geo_point)```
+
+The data import recognizes the ```lat``` and ```lon``` fields are a candidate for a ```geo_point``` data type.
+
 7. Add an Index name and click on import
 8. Click on View index in Discover
  <img src="images/image5.png"  width="400" height="170">
@@ -37,19 +43,28 @@ One thing to note here is `lat,lon=>location (geo_point)`. The data import recog
 
 1. From the previous exercise, you are redirected to data discover. From here you can explore field stats, filter data, and save query results.
 <img src="images/image6.png"  width="500" height="270">
-2. You can also start charting directly by mouse over a field and click on visualize on the popup screen. Here I moused over region and click on Visualize
+
+2. You can also start charting directly by mouse over a field and click on visualize on the popup screen. Here I moused over the `region` field and click on Visualize
+
 <img src="images/image7.png"  width="500" height="270">
+
 3. It should redirect you to a bar chart. 
 <img src="images/image8.png"  width="500" height="270">
+
 4. Click on `Top 5 values of region`
-5. Change Number of values to 10 and click on close.
+
+5. Change `Number of values` to 10 and click on close.
 <img src="images/image9.png"  width="500" height="270">
-6. Drap and drop `star` to Add or drag-and-drop a field under breakdown.
+
+6. Drap and drop the field star to Add or drag-and-drop a field under breakdown.
 <img src="images/image10.png"  width="500" height="270">
+
 7. The last thing we will do here is click on Bar Chart Stacked and selected Region Map.
 <img src="images/image11.png"  width="500" height="270">
+
 8. Drag and drop the `location` field into the chart. You will be redirected to Elastic Map. 
 <img src="images/image12.png"  width="500" height="270">
+
 Elasticsearch is an excellent geo data store with many advance geo search capabilities. Also, there are many more functionalities like chart types, adding layers, and adding calculated values to charts. Please refer to [Kibana Lens](https://www.elastic.co/guide/en/kibana/current/lens.html) for details.
 
 #### Elasticsearch Via API ####
