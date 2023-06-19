@@ -44,7 +44,7 @@ The data import recognizes the ```lat``` and ```lon``` fields are a candidate fo
 1. From the previous exercise, you are redirected to data discover. From here you can explore field stats, filter data, and save query results.
 <img src="images/image6.png"  width="500" height="270">
 
-2. You can also start charting directly by mouse over and click a field and click on visualize on the popup screen. Here I moused over the `region` field and click on Visualize
+2. You can also start charting directly by mouse over and click on a field and then click on visualize on the popup screen. Here I moused over and clicked on the `region` field and select Visualize
 
 <img src="images/image7.png"  width="500" height="270">
 
