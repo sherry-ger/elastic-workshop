@@ -27,7 +27,7 @@
 5. Click on import to continue
 <img src="images/image3.png"  width="400" height="230">
 
-6. Click on the Advance tab
+6. Click on the Advanced tab
 <img src="images/image4.png"  width="400" height="230">
 One thing to note here is 
 
