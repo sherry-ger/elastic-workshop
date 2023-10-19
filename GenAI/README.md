@@ -47,13 +47,13 @@ Our cluster is ready for our GenAI use cases now.
 
 ## Google Colab ##
 
-Go to [http://colab.google.com](https://colab.research.google.com/)
+* Go to [http://colab.google.com](https://colab.research.google.com/)
 
-From the Open Notebook screen, select Github.
-<img src="../images/OpenNotebook"  width="600" height="400">
+* From the Open Notebook screen, select Github.
+<img src="../images/OpenNotebook.png"  width="600" height="400">
 
-From the GitHub screen, enter the following into the Enter a GitHub URL or search by organizaiton or user
+* From the GitHub screen, enter the following into the Enter a GitHub URL or search by organizaiton or user
 https://github.com/sherry-ger/elastic-workshop/tree/main/GenAI
-<img src="../images/OpenGithubNotebook"  width="600" height="400">
+<img src="../images/OpenGithubNotebook.png"  width="600" height="400">
 
-Select the notebook you would like to open
+* Select the notebook you would like to open
