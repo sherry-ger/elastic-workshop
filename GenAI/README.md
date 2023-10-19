@@ -2,7 +2,7 @@
 
 ## Prerequisites ##
 
-If you would like to try out the hands on portion of the workshop, you would need:
+If you would like to try out the hands-on portion of the workshop, you would need:
 * Laptop
 * A Google account - to access Google Colab
 
