@@ -44,3 +44,16 @@ You can choose a cloud provider and a region if you don't want to use the defaul
 <img src="../images/SelectMLCapacity.png"  width="300" height="120">
 
 Our cluster is ready for our GenAI use cases now. 
+
+## Google Colab ##
+
+Go to [http://colab.google.com](https://colab.research.google.com/)
+
+From the Open Notebook screen, select Github.
+<img src="../images/OpenNotebook"  width="600" height="400">
+
+From the GitHub screen, enter the following into the Enter a GitHub URL or search by organizaiton or user
+https://github.com/sherry-ger/elastic-workshop/tree/main/GenAI
+<img src="../images/OpenGithubNotebook"  width="600" height="400">
+
+Select the notebook you would like to open
